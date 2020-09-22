@@ -1,0 +1,697 @@
+
+.container-fluid {
+	height: 100%;
+	
+}
+.container {
+	height: 100%;
+	
+}
+.row {
+	height: 100%;
+}
+
+.header {
+	width: 100%;
+	height: 650px;
+	background-image: url("img/2Q==.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.centras {
+	max-width: 540px;
+}
+.logo {
+	position: relative;
+	top: 50px;
+}
+.bottonMove {
+	margin-left: 0;
+}
+.button {
+	position: relative;
+	top: 43px;
+}
+.buttonInside {
+	position: absolute;
+	top: 58px;
+	left: 30px;
+}
+.hashtag {
+	/* Style for "#User Expe" */
+width: 100%;
+height: 25px;
+opacity: 0.7;
+color: #ffffff;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 400;
+line-height: 50px;
+/* Text style for "#User Expe" */
+letter-spacing: 0.6px;
+}
+.name {
+	/* Style for "Paul Lapki" */
+width: 100%;
+color: #ffffff;
+font-family: 'Raleway', sans-serif;
+font-size: 65px;
+font-weight: 600;
+
+text-transform: uppercase;
+/* Text style for "P, aul Lap" */
+letter-spacing: 11.3px;
+}
+.line {
+width: 97%;
+height: 3px;
+background-color: #ffffff;
+opacity: 0.5;
+}
+.description {
+	width: 100%;
+	height: 530px;
+	background-color: #ffffff;
+}
+.descriptionLogo {
+	height: auto;
+	width: 350px;
+}
+.descriptionText {
+	width: 100%;
+}
+.descriptionText > h1 {
+	/* Style for "Hi, i’m Pa" */
+width: 100%;
+opacity: 0.7;
+color: #000000;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 40px;
+/* Text style for "Hi, i’m Pa" */
+letter-spacing: 0.18px;
+}
+.descriptionText > p {
+	/* Style for "Lorem ipsu" */
+width: 100%;
+height: auto;
+opacity: 0.7;
+color: #000000;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.01px;
+/* Text style for "Lorem ipsu" */
+letter-spacing: 0.16px;
+}
+.buttonRed {
+	/* Style for "Rectangle" */
+width: 180px;
+height: 40px;
+background-color: #ff2b4a;
+border: none;
+}
+.workingProcess {
+width: 100%;
+height: 510px;
+background-color: #f6f6f6;
+}
+
+.h1-style {
+height: 40px;
+color: #000000;
+font-family: Raleway;
+font-size: 40px;
+font-weight: 700;
+line-height: 20.01px;
+width: 100%;
+letter-spacing: 0.4px;
+}
+.p-style{
+	opacity: 0.7;
+	height: 40px;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20.01px;
+	width: 100%;
+}
+.p-title > p {
+	/* Style for "Developmen" */
+	height: 12px;
+	color: #ffffff;
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 40.01px;
+	text-transform: uppercase;
+	/* Text style for "Developmen" */
+	letter-spacing: 0.48px;
+}
+.box-size {
+	width: 233px;
+	height: 220px;
+}
+.box-1 {
+	background-color: #10c6fc;	
+}
+.box-2 {
+	background-color: #835aeb;
+}
+.box-3 {
+	background-color: #002453;
+}
+.box-4 {
+	background-color: #ff2b4a;
+}
+.workExperience {
+	width: 100%;
+	height: 590px;
+	background-image: url("img/2Q==_copy.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.workExpBox {
+	height: 37vw;
+}
+.boxText > h1 {
+	color: #ffffff;
+	font-family: Raleway;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 28.01px;
+	text-transform: uppercase;
+	/* margin: 35px 0; */
+	letter-spacing: 0.78px;
+}
+.boxText > h3 {
+	opacity: 0.9;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 28.01px;
+	/* Text style for "Mad Max De" */
+	letter-spacing: 0.18px;
+}
+.boxText > h5 {
+	opacity: 0.7;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 23.01px;
+	/* Text style for "OCT 2013 -" */
+	letter-spacing: 0.16px;
+}
+.boxText > p {
+	width: 90%;
+	opacity: 0.5;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 23.01px;
+	margin: 0;
+	letter-spacing: 0.16px;
+}
+.boxText {
+	position: absolute;
+	top: 0;
+}
+.lineBetween {
+	/* Style for "Shape 1" */
+	width: 90%;
+	height: 2px;
+	background-color: #ffffff;
+	opacity: 0.2;
+	/* margin: 15px 0; */
+}
+.latestWork {
+	width: 100%;
+	height: 750px;
+}
+.boxSize {
+	width: 100%;
+	height: 18vw;
+} 
+
+.box-aqua {
+	background-color: #10c6fc;
+	}
+.box-purple {
+	background-color: #835aeb;
+}
+.box-blue {
+	background-color: #002453;
+}
+.box-red {
+	background-color: #ff2b4a;
+}
+.citation {
+	width: 100%;
+	height: 530px;
+	background-color: #64cbc0;
+}
+.quotes {
+	opacity: 0.51;
+}
+.citationText {
+	opacity: 0.8;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28.01px;
+	/* Text style for "Lorem ipsu" */
+	letter-spacing: 0.16px;
+}
+.citationAuth {
+	opacity: 0.7;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 28.01px;
+	/* Text style for "Deniel Cro" */
+	letter-spacing: 0.18px;
+}
+.citationDesigner {
+	opacity: 0.7;
+	color: #000000;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 28.01px;
+	/* Text style for "Creative D" */
+	letter-spacing: 0.14px;
+}
+.form {
+	width: 100%;
+	height: 680px;
+	background-image: url("img/2Q==_copy_2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.formWorkExpieBox {
+	background-image: linear-gradient(45deg, rgba(93, 35, 96, 0.79) 0%, rgba(158, 53, 105, 0.79) 50%, rgba(93, 35, 96, 0.79) 100%);
+	opacity: 0.3;
+	width:100%;
+}
+.formBox {
+	width: 90%;
+
+}
+.form-group .form-control::placeholder {
+opacity: 0.6 ;
+color:#ffffff;
+font-family: Roboto ;
+font-size: 12px ;
+font-weight: 400;
+/* Text style for "Subject*" */
+letter-spacing: 0.12px;
+}
+.form-group textarea {
+	resize: none;
+	background: transparent;
+	color:#ffffff;
+  }
+  .form-group textarea:focus {
+	  color:#ffffff;
+	  background: transparent;
+  }
+  .form-group input:focus {
+	  color:#ffffff;
+	  background: transparent;
+  }
+  .form-group input:required {
+	box-shadow:none;
+  }
+  .form-group .form-control:focus {
+	border-color:  rgba(255, 255, 255, 0.6) ;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(255, 255, 255, 0.6);
+}
+.form-group input {	
+	height: 40px;
+	border: 1px solid rgba(255, 255, 255, 0.6);
+	background: transparent;
+	color:#ffffff;
+}
+.formTitles {
+color: #ffffff;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 28.01px;
+text-transform: uppercase;
+/* Text style for "Leave a me" */
+letter-spacing: 0.78px;
+}
+.formLeft {	
+	height: 586px;	
+}
+.formRigth{
+	height: 190px;
+}
+.a-styling {
+	text-decoration: none;
+	opacity: 0.7;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 23.01px;
+	/* Text style for "Gulshan Sa" */
+	letter-spacing: 0.16px;
+}
+.a-styling:hover {
+	text-decoration: none;
+	color: #ffffff;;
+}
+.footer {
+	height: 100px;
+	width: 100%;
+	background-color: #222222;
+}
+.copyRigth {
+	opacity: 0.5;
+	color: #ffffff;
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 30.01px;
+	letter-spacing: 0.48px;
+}
+.verticalLine {
+	width: 1px;
+	height: 14px;
+	background-color: #888888;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+}
+
+@media (max-width: 991.98px) { 
+	.descriptionText > h1 {
+		font-size: 16px;
+	}
+	.descriptionText > p {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	.buttonRed {
+		width: 140px;
+		height: 35px;
+	}
+	.description {
+		height: 450px;
+	}
+	.descriptionLogo {
+		width: 290px;
+	}
+	.header {
+		height: 600px;
+	}
+	.workingProcess {
+		height: 450px;
+	}
+	.box-size {
+		width: 163px;
+		height: 160px;
+	}
+	.workExpBox {
+		width: 100%;
+		height: 360px;
+	}
+	.boxText > h1 {
+		font-size: 20px;
+	}
+	.boxText > h3 {
+		font-size: 16px;
+	}
+	.boxText > h5 {
+		font-size: 14px;
+	}
+	.boxText > p {
+		font-size: 14px;
+	}
+	.workExperience {
+		height: 500px;
+	}
+	.latestWork {
+		height: 600px;
+	}
+	.boxSize {
+		height: 15vw;
+	}
+}
+@media  (max-width: 767.98px) { 
+	.header {
+		height: 500px;
+	}
+	.name {
+		font-size: 45px;
+		letter-spacing: 3.5px;
+	}
+	.hashtag {
+		font-size: 15px;
+		line-height: 40px;
+		letter-spacing: 0.49px;
+	}
+	.col-12.pozicija {
+		position: absolute;
+	}
+	.descriptionLogo {
+		opacity: 0.3;
+	}
+	.workingProcess {
+		height: 350px;
+	}
+	.box-size {
+		width: 123px;
+		height: 110px;
+	}
+	.p-title > p {
+		font-size: 14px;
+	}
+	.boxText > h1 {
+		font-size: 18px;
+	}
+	.boxText > h3 {
+		font-size: 15px;
+	}
+	.boxText > h5 {
+		font-size: 13px;
+	}
+	.boxText > p {
+		font-size: 13px;
+		line-height: 21.01px;
+	}
+	.latestWork {
+		height: 450px;
+	}
+	.formLeft {	
+		height: 496px;	
+	}
+	.formRigth{
+		height: 160px;
+	}
+	.formTitles {
+		font-size: 20px;		
+
+		}
+ }
+ @media (max-width: 575.98px) { 
+	.header {
+		 height: 250px;
+	 }
+	.name {
+		/* font-size: 1.45em; */
+		font-size: 5.2vw;
+		letter-spacing: 2.8px;
+		text-align: center;
+	}
+	.hashtag {
+		width: 97%;
+		/* font-size: 0.57em; */
+		font-size: 2vw;
+		line-height: 30px;
+		letter-spacing: 0;
+		text-align: center;
+	}
+	
+	.logo {	
+		top: 20px;
+		width:25px;
+		height: 35px;
+	}
+	.button {
+		width: 40px;
+		height: auto;
+		top: 16px;
+	}
+	.buttonInside {
+		top: 27px;
+		left: 62px;
+		width: 20px;
+	}
+	.bottonMove {
+		margin-left: 37px;
+	}
+	.description {
+		height: 280px;
+	}
+	.descriptionLogo {
+		width: 200px;
+	}
+	.descriptionText > h1 {
+		font-size: 15px;
+	}
+	.descriptionText > p {
+	   font-size: 12px;
+	   line-height: 20px;
+   }
+   .buttonRed {
+	   width: 100px;
+	   height: 25px;
+   }
+   .h1-style {
+	   font-size: 34px;
+   }
+   .workingProcess {
+	   height: 300px;
+   }
+   .box-size {
+	width: 90px;
+	height: 87px;
+	}
+	.p-title > p {
+		font-size: 11px;
+		letter-spacing: 0;
+	}
+	.box-4 .p-title > img {
+		height: 36px;
+	}
+	.workExpBox {
+		height: 230px;
+	}
+	.boxText > h1 {
+		font-size: 4vw;
+		line-height: 26px;
+		margin-bottom: 0;
+	}
+	.boxText > h3 {
+		font-size: 3vw;
+	}
+	.boxText > h5 {
+		font-size: 2.4vw;
+	}
+	.boxText > p {
+		font-size: 2.4vw;
+		line-height: 14.01px;
+	}
+	.latestWork {
+		height: 370px;
+	}
+	.boxSize {
+		height: 18vw;
+	}
+	.citation {
+		height: 420px;
+	}
+	.citationText {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.quotes {
+		width: 50px;
+		height: 39px;
+	}
+	.sign {
+		width: 150px;
+		height:auto ;
+	}
+	.citationAuth {
+		font-size: 16px;
+	}
+	.citationDesigner {
+		font-size: 13px;
+	}
+	.formLeft {	
+		height: 400px;	
+	}
+	.form {
+		height: 700px;
+	}
+	.formRigth{
+		height: 85px;
+	}
+	.formTitles {
+		font-size: 18px;		
+		line-height: 28.01px;
+		}
+	.a-styling {		
+		font-size: 13px;
+		line-height: 17px;
+	}
+  }
+  @media (max-width: 425px) { 
+   .name {
+	   font-size: 5.3vw;
+	   letter-spacing: 2px;
+   }
+   .hashtag {
+	   width: 97%;
+	   font-size: 3vw;
+	   line-height: 30px;
+	   letter-spacing: 0;
+   }
+   .bottonMove {
+	   margin-left: 15px;
+   }
+   .buttonInside {
+	   left: 40px;
+   }
+   .descriptionText > p {
+    font-size: 12px;
+    line-height: 18px;
+	}
+   .descriptionText > h1 {
+		font-size: 3.7vw;
+		line-height: 24px;
+	}
+	.h1-style {
+		font-size: 30px;
+	}
+	.p-style {
+		font-size: 3.6vw;
+	}
+	.box-size {
+	 	width: 18vw;
+	 	height: 18vw;
+	 }
+	 .p-title > p {
+		 font-size: 2.35vw;
+		 letter-spacing: 0;
+		 line-height: 30px;
+	 }
+	 .p-title > img {
+		margin-top:5px;
+	 }
+	 .workingProcess {
+		 height: 250px;
+	 }
+	 .latestWork {
+		height: 330px;
+	 }
+	 
+ }
+ 
+		
+
+		
